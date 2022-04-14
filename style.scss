@@ -1,0 +1,33 @@
+$primary_light:hsl(0, 0%, 0%);
+$primary_dark: hsl(0, 0%, 39%;
+$primary_bg_light: hsl(0, 0%, 100%);
+$primary_bg_dark: hsl(200, 50%, 15%);
+
+/*
+TODO create card
+
+card_color_light
+card_color_dark
+card_bg_light
+card_bg_dark
+
+*/
+
+//Footer 
+$footer_color_light: hsl(0, 0%, 47%);
+$footer_bg_light: hsl(0, 0%, 27%);
+$footer_color_dark: hsl(0, 0%, 38%);
+$footer_bg_dark: hsl(0, 0%, 16%);
+
+
+:root {
+    color: $primary_light;
+    background-color: $primary_bg_light;
+    
+
+    footer{
+        background-color: $footer_bg_light;
+        color: $footer_color_light;
+    }
+}
+
