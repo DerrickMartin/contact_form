@@ -1,0 +1,14 @@
+{
+  "name": "contact_form_react",
+  "version": "1.0.0",
+  "description": "Package json for contact_form app",
+  "main": "index.js",
+  "repository": "https://github.com/DerrickMartin/contact_form.git",
+  "author": "Derrick Hannah <30300627+DerrickMartin@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chai": "^4.3.6",
+    "nyc": "^15.1.0"
+  }
+}
